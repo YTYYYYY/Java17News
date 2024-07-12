@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java8Study.iml" filepath="$PROJECT_DIR$/Java8Study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_01Lambda/_01Lambda.iml" filepath="$PROJECT_DIR$/_01Lambda/_01Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_02Stream/_02Stream.iml" filepath="$PROJECT_DIR$/_02Stream/_02Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_03Structural/_03Structural.iml" filepath="$PROJECT_DIR$/_03Structural/_03Structural.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_04Switch/_04Switch.iml" filepath="$PROJECT_DIR$/_04Switch/_04Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_05Block/_05Block.iml" filepath="$PROJECT_DIR$/_05Block/_05Block.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_06Record/_06Record.iml" filepath="$PROJECT_DIR$/_06Record/_06Record.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_07OptionalAPI/_07OptionalAPI.iml" filepath="$PROJECT_DIR$/_07OptionalAPI/_07OptionalAPI.iml" />
+    </modules>
+  </component>
+</project>
