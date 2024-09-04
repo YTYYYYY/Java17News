@@ -170,13 +170,13 @@ Stream的执行流程：
 
 ### 3.1 实例化
 
-#### 3.1.1 方式一.通过集合
+#### 3.1.1 方式一.通过数组
 
 ~~~java
 Stream<Integer> stream1 = Arrays.stream(ListData.getArrData());
 ~~~
 
-#### 3.1.2 方式二.通过数组
+#### 3.1.2 方式二.通过集合
 
 ~~~java
 Stream<String> stream2 = ListData.getListData().stream();
